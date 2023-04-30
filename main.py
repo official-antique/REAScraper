@@ -2,10 +2,10 @@
     How to run
 
     Install the REA module by entering the below line into Terminal:
-    pip install src/realestate-com-au-api
+    pip install .\src\rea
 
     Run the script by entering the below line into Terminal:
-    py.exe main.py
+    py.exe .\main.py
 """
 
 
